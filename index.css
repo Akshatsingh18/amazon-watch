@@ -1,0 +1,122 @@
+#bod
+{
+    margin: 0%;
+}
+#head
+{
+    height: 70px;
+    background-color:black;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+#main > img
+{
+    position: absolute;
+    bottom: 600px;
+    width: 300px;
+    height: 100px;
+}
+
+#image
+{
+    position: absolute;
+    top: 200px;
+    left:100px;
+    width: 500px;
+    height: 500px;
+}
+#main
+{
+    position: absolute;
+    top:200px;
+    left: 40%;
+    line-height: 30px;
+}
+#main > p1
+{
+    font-size: 50px;
+}
+#main > p2
+{
+    font-size: 20px;
+}
+#main > p3
+{
+    font-size: 30px;
+}
+#color
+{
+    padding: 30px;
+}
+#color > button
+{
+    text-align: justify;
+    width:100px ;
+    padding: 30px;
+    height: 50px;
+    margin-left: 30px;
+}
+#clock
+{
+    font-family: 'orbiton',sans-serif;
+    color:lightcyan;
+    width: 110px;
+    padding: 10px;
+    position: absolute;
+    top:425px;
+    left: 286px;
+}
+#b1
+{
+    background-color: black;
+}
+#b2
+{
+    background-color: red;
+}
+#b3
+{
+    background-color:blue;
+}
+#b4
+{
+    background-color: brown;
+}
+#b5
+{
+    background-color: pink;
+}
+#change
+{
+    padding: 30px;
+}
+#change > button
+{
+    text-align: center;
+    width:100px ;
+    height: 50px;
+    margin-left: 30px;
+}
+#space
+{
+    padding: 30px;
+}
+#buy 
+{
+    background-color: darkorange;
+    text-align: center;
+    width:150px ;
+    height: 50px;
+    margin-left: 30px;
+
+}
+
+#heartbeat
+{
+    position: absolute;
+    top:45%;
+    left: 290px;
+    width: 140px;
+    height: 160px;
+}
